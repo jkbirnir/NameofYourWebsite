@@ -8,11 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Research.qmd
+        text: Research
+      - href: https://jkbirnir.github.io/GVPT729B/
+        text: GVPT729
 
 format:
   html:
-    theme: cosmo
+    theme: vapor
     css: styles.css
     toc: true
 
