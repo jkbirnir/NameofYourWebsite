@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-About this sitek
-
-```{r}
-1 + 1
-```
